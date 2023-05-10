@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    
+    list-style-type: none;
+}
+    
+
+.lasagna{
+    margin:10px;
+}
+
+.coffee{
+    margin:20px;
+}
+
